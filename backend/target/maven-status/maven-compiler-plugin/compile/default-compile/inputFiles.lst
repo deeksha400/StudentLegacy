@@ -1,0 +1,5 @@
+/workspaces/StudentLegacy/backend/src/main/java/com/credvault/CredvaultApplication.java
+/workspaces/StudentLegacy/backend/src/main/java/com/credvault/controller/CertificateController.java
+/workspaces/StudentLegacy/backend/src/main/java/com/credvault/controller/HealthController.java
+/workspaces/StudentLegacy/backend/src/main/java/com/credvault/model/Certificate.java
+/workspaces/StudentLegacy/backend/src/main/java/com/credvault/repository/CertificateRepository.java

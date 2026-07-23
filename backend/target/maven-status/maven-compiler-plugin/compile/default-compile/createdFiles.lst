@@ -1,0 +1,5 @@
+com/credvault/CredvaultApplication.class
+com/credvault/controller/HealthController.class
+com/credvault/repository/CertificateRepository.class
+com/credvault/controller/CertificateController.class
+com/credvault/model/Certificate.class
